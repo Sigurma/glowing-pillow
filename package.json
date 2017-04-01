@@ -4,6 +4,7 @@
   "description": "jopik",
   "main": "index.js",
   "scripts": {
+    "start": "ecstatic ./src --port 8090",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
