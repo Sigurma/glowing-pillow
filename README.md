@@ -6,4 +6,4 @@
 * Install: `npm install`
 * Start: 
     * `npm start`
-    * go to `http://localhost:8090 in your browser`
+    * go to `http://localhost:8090` in your browser
