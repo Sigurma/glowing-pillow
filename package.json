@@ -18,5 +18,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/Sigurma/glowing-pillow/issues"
+  },
+  "dependencies": {
+    "ecstatic": "2.1.0"
   }
 }
